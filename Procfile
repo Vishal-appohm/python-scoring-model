@@ -1,0 +1,1 @@
+worker: python obj_scoring_model.py
